@@ -1,3 +1,3 @@
 # ThinkPython
 A newbie's Repository 
-this project is creat for my homework in bnu 
+this project is be created for my python homework in bnu 
